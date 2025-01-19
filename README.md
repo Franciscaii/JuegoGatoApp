@@ -1,4 +1,4 @@
-# 🕹️ Juego del Gato (Tic-Tac-Toe)
+# 🕹️ Juego del Gato 
 
 ¡Bienvenido al repositorio de **Juego del Gato**! Esta es una aplicación móvil desarrollada en **Android Studio** con **Java** y **XML**. La app simula el clásico juego del gato (o tres en raya) en el que dos jugadores se enfrentan para conseguir una fila de 3 casillas, ya sea en **vertical**, **horizontal** o **diagonal**.
 
@@ -39,11 +39,9 @@
 ## 📷 Vista previa 
 
 <div>
-  <img src="" alt="Captura de pantalla" width="300"/>
-  <img src="" alt="Captura de pantalla" width="300"/>
+  <img src="https://github.com/Franciscaii/JuegoGatoApp/blob/main/WhatsApp%20Image%202025-01-19%20at%2013.00.13.jpeg" alt="Captura de pantalla" width="300"/>
+  <img src="https://github.com/Franciscaii/JuegoGatoApp/blob/main/WhatsApp%20Image%202025-01-19%20at%2013.00.13%20(1).jpeg" alt="Captura de pantalla" width="300"/>
 </div>
 
-### Ejemplo: Empate
-📸 *(Aquí puedes insertar la captura cuando el juego termina en empate)*
 
 ---
